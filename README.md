@@ -4,12 +4,11 @@ ___
 This is a basic chunk trimming program for the Better Than Adventure! Minecraft beta 1.7.3 mod. This works under Linux and is untested on MacOS/WSL, though this is only bash so there is no reason it wouldn't work.
 ___
 ## How To Use
-1. Click on BTAChunkTrimmer.sh
-2. In the code window's header bar, press the download to save as raw.
-3. Navigate to the directory with the script in the terminal.
-4. Make sure the script is executable by running `chmod +x ./BTAChunkTrimmer.sh`.
-5. Run the script using `./BTAChunkTrimmer.sh`.
-6. Follow the on-screen prompts.
+1. Clone the repository. If you don't know how to do that, click on BTAChunkTrimmer.sh. Next, In the code window's header bar, press the download button to save as raw.
+2. Navigate to the directory with the script in the terminal.
+3. Make sure the script is executable by running `chmod +x ./BTAChunkTrimmer.sh`.
+4. Run the script using `./BTAChunkTrimmer.sh`.
+5. Follow the prompts.
 ___
 ## Limitations
 This script does not modify region files, it only deletes them. This means that your
