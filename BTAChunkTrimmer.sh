@@ -127,7 +127,7 @@ fi
 if [ "$minecraftWorldSaveDir" == "skip" ]; then #for if users put skip in the backup step
     question="You did not back up your files. Are you sure you want to proceed? This can cause irreperable damage to your world!"
     if userPromptNoDefault; then
-        continue
+        :
     else
         exit
     fi
